@@ -3,9 +3,10 @@
 ## Links
 
 > [GanimMedical repositories](https://github.com/orgs/GanimMedical/repositories)
->> The majority of project pages require private access.  To be granted private access to Ganim Medical organization pages, request permissions by emailing [gabeqtucker@gmail.com](mailto:gabeqtucker@gmail.com).
+>> The majority of project pages require private access.  To be granted private access to Ganim Medical organization pages, request permissions by contacting Gabriel Tucker ([gabeqtucker@gmail.com](mailto:gabeqtucker@gmail.com)).
 
-> [Project Trello page and timeline]()
+> [Trello - timeline for projects](https://trello.com/b/iKUpeArp/timeline)
+>> Please request access to the Trello page by contacting Gabriel Tucker ([gabeqtucker@gmail.com](mailto:gabeqtucker@gmail.com)), who will then send you a link to add you.
 
 ## Images
 
