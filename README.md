@@ -4,8 +4,13 @@
 
 *These subscriptions are not yet in effect.*
 
-* Trello Premium ($12.50 per month)
-* Adobe Creative Cloud ()
+> **Trello Premium**
+>> *Cost:* $12.50 per month
+>> *Purpose:* Organize tasks, timelines, and collaborate with management.  Premium features save time by allowing greater flexibility in planning and additional membership permission management in case of upscaling.
+
+> Adobe Creative Cloud Pro
+>> *Cost:* $69.99 per month
+>> *Purpose:* Create logos, vector art, animations, videos, graphics, and other media that will be incorporated A) into project planning and presentations and B) into consumer and reseller-end visuals on the website and any future apps created.
 
 ## Links
 
