@@ -1,5 +1,12 @@
 # Ganim Medical | resources
 
+## Subscriptions
+
+*These subscriptions are not yet in effect.*
+
+* Trello Premium ($12.50 per month)
+* Adobe Creative Cloud ()
+
 ## Links
 
 > [GanimMedical repositories](https://github.com/orgs/GanimMedical/repositories)
