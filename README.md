@@ -27,6 +27,8 @@ Service: service@ganimmed.com
 
 Instrument Department: instruments@ganimmed.com
 
+Domain: https://www.ganimmed.com/
+
 Address:
 175 S Columbus St
 Sunbury, OH 43074
@@ -37,7 +39,7 @@ Sunbury, OH 43074
 ![](GanimLogoLong.png)
 
 ## Hexadecimal Color Codes
-*Based on existing website colors, but will be further developed later*
+*Based on existing website colors but will be revamped later.*
 
 #061127
 
