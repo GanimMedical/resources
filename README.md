@@ -20,8 +20,25 @@
 >> *Cost:* $69.99 per month
 >> *Purpose:* Create logos, vector art, animations, videos, graphics, and other media that will be incorporated A) into project planning and presentations and B) into consumer and reseller-end visuals on the website and any future apps created.
 
-## Images
+## Contact Information
+Phone: 1 (800) 522-5909
 
+Service: service@ganimmed.com
+
+Instrument Department: instruments@ganimmed.com
+
+Address:
+175 S Columbus St
+Sunbury, OH 43074
+
+## Images
 ![](GanimLogoSquare.png)
 
 ![](GanimLogoLong.png)
+
+## Hexadecimal Color Codes
+*Based on existing website colors, but will be further developed later*
+
+#061127
+
+#193977
