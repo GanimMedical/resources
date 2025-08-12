@@ -12,6 +12,14 @@
 
 *These subscriptions are not yet in effect.*
 
+### Urgent
+
+> **AWS**
+>> *Cost: Unknown - * https://aws.amazon.com/free/?nc2=h_pr_ft
+>> *Purpose:* Host servers, website, and databases.
+
+### Not Urgent
+
 > **Trello Premium**
 >> *Cost:* $12.50 per month
 >> *Purpose:* Organize tasks, timelines, and collaborate with management.  Premium features save time by allowing greater flexibility in planning and additional membership permission management in case of upscaling.
